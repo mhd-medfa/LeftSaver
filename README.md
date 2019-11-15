@@ -9,7 +9,7 @@
 Leftsaver is a smart recycle bin that helps chefs to capture, track, and manage food waste to reduce food waste and increase their profit.
 
 ![LeftSaver Home Page](./documents/home.PNG)
-#### you can run LeftSaver Demo by applying this command in your terminal:
+#### you can launch LeftSaver demo application by executing this command in your terminal:
 
 `streamlit run app.py`
 
