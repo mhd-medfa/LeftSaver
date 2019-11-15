@@ -7,3 +7,19 @@
 [![Pandas](https://img.shields.io/badge/Pandas-blue.svg)](http://pandas.pydata.org)
 # LeftSaver
 Leftsaver is a smart recycle bin that helps chefs to capture, track, and manage food waste to reduce food waste and increase their profit.
+
+![LeftSaver Home Page](./documents/home.PNG)
+#### you can run LeftSaver Demo by applying this command in your terminal:
+
+`streamlit run app.py`
+
+
+![LeftSaver Home Page](./documents/last_week.PNG)
+
+
+
+
+
+![LeftSaver Home Page](./documents/last_month.PNG)
+
+
